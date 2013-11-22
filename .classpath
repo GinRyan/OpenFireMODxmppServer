@@ -196,6 +196,21 @@
 	<classpathentry exported="true" kind="lib" path="build/lib/coh_tango_dist/coherence-work.jar"/>
 	<classpathentry exported="true" kind="lib" path="build/lib/coh_tango_dist/coherence.jar"/>
 	<classpathentry exported="true" kind="lib" path="build/lib/coh_tango_dist/tangosol.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/activation.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/bouncycastle.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/commons-el.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/jasper-compiler.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/jasper-runtime.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/jdic.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/jtds.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/mail.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/mysql.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/openfire.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/postgres.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/slf4j-log4j12.jar"/>
+	<classpathentry kind="lib" path="target/openfire/lib/startup.jar"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
