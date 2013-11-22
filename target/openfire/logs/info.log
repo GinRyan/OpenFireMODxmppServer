@@ -1,0 +1,8 @@
+2013.11.22 14:28:28 org.jivesoftware.openfire.XMPPServer - Registering shutdown hook (standalone mode)
+2013.11.22 14:28:28 org.jivesoftware.openfire.XMPPServer - Openfire 3.9.0 Alpha [Nov 22, 2013 2:28:28 PM]
+2013.11.22 14:28:30 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Misses
+2013.11.22 14:28:30 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Hits
+2013.11.22 14:28:30 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console listening at http://127.0.0.1:9090
+2013.11.22 14:28:52 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for User
+2013.11.22 14:28:52 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Remote Users Existence
+2013.11.22 14:29:42 org.jivesoftware.openfire.XMPPServer - Server halted
